@@ -1,0 +1,4 @@
+actor: CheckLoginTester
+modules:
+    enabled:
+        - \Helper\CheckLogin
